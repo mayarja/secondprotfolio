@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/secondprotfolio/static/css/main.3d569e8a.css",
+    "main.js": "/secondprotfolio/static/js/main.25717223.js",
+    "static/media/blogimage.png": "/secondprotfolio/static/media/blogimage.f2172904315dabecbc40.png",
+    "static/media/kitchenimage.png": "/secondprotfolio/static/media/kitchenimage.aebfa0add6380da6df5d.png",
+    "static/media/fateh.png": "/secondprotfolio/static/media/fateh.2a094693cdd8a3f40331.png",
+    "static/media/milionimage.png": "/secondprotfolio/static/media/milionimage.c7bf445e157e59ef633c.png",
+    "static/media/socialimage.png": "/secondprotfolio/static/media/socialimage.67bc2da52a7a1d7eb18c.png",
+    "static/media/color-sharp.png": "/secondprotfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/secondprotfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/hotelsimage.png": "/secondprotfolio/static/media/hotelsimage.1a4c9317bc6311c41b91.png",
+    "static/media/eco1image.png": "/secondprotfolio/static/media/eco1image.001a7064d37567b8fc64.png",
+    "static/media/weatherimage.png": "/secondprotfolio/static/media/weatherimage.ce64478a9438b58bbaa2.png",
+    "static/media/sela.png": "/secondprotfolio/static/media/sela.5b9507194ed564230682.png",
+    "static/media/banner-bg.png": "/secondprotfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/secondprotfolio/static/media/header-img.400baa4260daac98f2b2b1ccf08761c2.svg",
+    "static/media/foodo.jpg": "/secondprotfolio/static/media/foodo.11de71091d387d2ae02f.jpg",
+    "static/media/garden.jpg": "/secondprotfolio/static/media/garden.1ab3a826be045e3e17b4.jpg",
+    "static/media/Home.jpg": "/secondprotfolio/static/media/Home.e958de1d9f0c2d2fb923.jpg",
+    "static/media/esmile.jpg": "/secondprotfolio/static/media/esmile.2c6b75e615431e50d53d.jpg",
+    "static/media/hadity.jpg": "/secondprotfolio/static/media/hadity.6cf6a96d85abeec6d747.jpg",
+    "static/media/footer-bg.png": "/secondprotfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/contact-img.svg": "/secondprotfolio/static/media/contact-img.62aa99e0f3b968b5d1ce9eb047f34fc7.svg",
+    "static/media/revicons.eot": "/secondprotfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/secondprotfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/secondprotfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/secondprotfolio/static/media/meter2.a0050a378a929877ac8144049ee0a1bf.svg",
+    "static/media/meter1.svg": "/secondprotfolio/static/media/meter1.c61a2fc3fdd79d551b751c6c0f890ab6.svg",
+    "static/media/meter3.svg": "/secondprotfolio/static/media/meter3.2eda919df32db1af75a222eb99d3a931.svg",
+    "index.html": "/secondprotfolio/index.html",
+    "static/media/logo.svg": "/secondprotfolio/static/media/logo.3c6c479cfa1d154dbfccd4d5f91320f4.svg",
+    "main.3d569e8a.css.map": "/secondprotfolio/static/css/main.3d569e8a.css.map",
+    "main.25717223.js.map": "/secondprotfolio/static/js/main.25717223.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d569e8a.css",
+    "static/js/main.25717223.js"
+  ]
+}
